@@ -26,7 +26,7 @@ Read subject index into R environment.
    
 
 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
-   Use grep command to get column indexes for variable name contains "mean()" 
+   Use grep command to get column indexes for variable name contains "mean()" and "std()"
 
 3. Uses descriptive activity names to name the activities in the data set.
    Convert activity labels to characters and add a new column as factor
