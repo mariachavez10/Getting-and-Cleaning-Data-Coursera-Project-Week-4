@@ -1,5 +1,7 @@
-# Getting-and-Cleaning-Data-Coursera-Project-Week-4
-This repository is a proyect to finish the Getting and Cleaning Data in Coursera
+# Getting-and-Cleaning-Data-Coursera-Project-Week-4.
+
+This repository is a proyect to finish the Getting and Cleaning Data in Coursera.
+
 First it is neccesary that the user download and unzip the data file into your R working directory.Then download the R source code into your R working directory and execute R source code to generate tidy data file.
 
 DATA DESCRIPTION
