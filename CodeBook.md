@@ -15,7 +15,7 @@ The data were averaged based on subject and activity group and the activity colu
 
 Measurements.
 
-- "activity"
+- "activitylabel"
 - "subject"
 - "tBodyAcc-mean()-X"
 - "tBodyAcc-mean()-Y"
